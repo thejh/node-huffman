@@ -1,0 +1,17 @@
+{
+  "author": "Jann Horn <jannhorn@googlemail.com>",
+  "name": "huffman",
+  "description": "Generate Huffman codes from symbols and probabilities",
+  "version": "0.1.0",
+  "homepage": "https://github.com/thejh/node-huffman",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thejh/node-huffman.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
